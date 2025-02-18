@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Voidhubteam/PETSIMULATOR99SCRIPT/refs/heads/main/lua.txt'))()
+loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/Voidhubteam/PETSIMULATORHACKS1/refs/heads/main/newlua.txt"))()'))()
